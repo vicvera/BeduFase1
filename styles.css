@@ -17,3 +17,70 @@ button {
     color: #fff;
     background-color: #025157;
 }
+
+.header {
+    margin-top: 40px 20px 0;
+    font-size: 0;
+    height: 45px;
+    font-family: sans-serif;
+  }
+  
+  .header > * {
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: middle;
+    height: 100%;
+    line-height: 45px;
+  }
+
+  .logo {
+    width: 15%;
+  }
+
+  .logo > img {
+    width: 15%;
+  }
+  
+  .navbar {
+    width: 60%;
+    text-align: left;
+    color: #025157;
+    font-weight: 500;
+  }
+  
+  .actions {
+    width: 25%;
+    text-align: right;
+    font-size: 14px;
+  }
+  
+  .actions > * {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  .actions a {
+    color: #67b54b;
+  }
+  
+  .actions button {
+    color: white;
+    background-color: #67b54b;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 0;
+    border-radius: 5px;
+  }
+
+  .main {
+    margin-top: 140px;
+    text-align: center;
+  }
+
+  .menu-item {
+    display: inline;
+    margin-right: 25px;
+    margin-left: 25px;
+  }
