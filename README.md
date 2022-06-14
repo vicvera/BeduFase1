@@ -1,2 +1,2 @@
-# BeduSesion1
-Sesión 1 BEDU
+# BeduFase1
+Fase 1 BEDU
