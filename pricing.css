@@ -1,0 +1,81 @@
+.logo {
+    width: 15%;
+  }
+
+.logo > img {
+    width: 15%;
+}
+
+.navbar {
+    background-color: #fffbf7;
+    text-align: center;
+    color: #025157;
+    font-weight: 500;
+  }
+
+  .actions {
+    text-align: right;
+    font-size: 14px;
+  }
+  
+  .actions > * {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  .actions a {
+    color: #67b54b;
+  }
+  
+  .actions button {
+    color: white;
+    background-color: #67b54b;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 0;
+    border-radius: 5px;
+  }
+
+  .main {
+    margin-top: 200px;
+    text-align: center;
+  }
+
+  h1 {
+    color: #46484c;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    color: #8b8b8bcc;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.faq {
+    margin-top: 50px;
+    padding-bottom: 120px;
+  }
+  
+  .faq h2 {
+    color: #025157;
+    font-family: "Alegreya", serif;
+  }
+  
+  .faq .card-header {
+    background-color: white;
+    border-left: 1px solid rgba(0, 0, 0, 0.125);
+  }
+  
+  .faq h2 > button {
+    color: #025157;
+    font-size: 28px;
+    font-weight: 900;
+  }
+  
+  .faq .card .card-body a {
+    color: #6abf4b;
+  }
