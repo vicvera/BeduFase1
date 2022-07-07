@@ -26,6 +26,10 @@ button {
     background-color: #025157;
 }
 
+.text-button:hover {
+  background-color: #67b54b;
+}
+
 .fixed-header {
   position: fixed;
   top: 0;
